@@ -9,19 +9,19 @@
 
 ## About Me 🔍
 
-🙌 Hello! I’m Aravindh, a developer who believes that **data is the engine that drives real change**.  
-💡 I love building **smart, scalable systems** that solve practical problems — from front-end apps to deep learning models.  
-🌱 **Always learning:** I enjoy exploring AI, Cloud, Data Engineering, and best practices that keep code clean and solutions meaningful.  
-🧩 **Core Focus:** Data pipelines | ML Ops | NLP | Computer Vision | Cloud Deployment | Usability
+Hello! I’m Aravindh, a developer who believes that **data is the engine that drives real change**.  
+I love building **smart, scalable systems** that solve practical problems — from front-end apps to deep learning models.  
+**Always learning:** I enjoy exploring AI, Cloud, Data Engineering, and best practices that keep code clean and solutions meaningful.  
+**Core Focus:** Data pipelines | ML Ops | NLP | Computer Vision | Cloud Deployment | Usability
 
 ---
 
 ## What I Believe In 📌 
 
-✅ **Data is a Story:** Numbers are just numbers until we find the insight they’re hiding.  
-✅ **Simplicity Matters:** I aim for solutions that are practical and easy to maintain.  
-✅ **Impact First:** Whether it’s a small script or a full product, I build to make life better.  
-✅ **Clean Code:** Code should be readable — for me and for the next person who works on it!
+**Data is a Story:** Numbers are just numbers until we find the insight they’re hiding.  
+**Simplicity Matters:** I aim for solutions that are practical and easy to maintain.  
+**Impact First:** Whether it’s a small script or a full product, I build to make life better.  
+**Clean Code:** Code should be readable — for me and for the next person who works on it!
 
 ---
 
@@ -63,29 +63,29 @@
 
 ## 📚 What I'm Learning Right Now
 
-✅ Reinforcement Learning Algorithms  
-✅ Production ML Pipelines & MLOps  
-✅ Cloud-based AI Deployment (AWS, Firebase)  
-✅ UX Research for AI Solutions  
+Reinforcement Learning Algorithms  
+Production ML Pipelines & MLOps  
+Cloud-based AI Deployment (AWS, Firebase)  
+UX Research for AI Solutions  
 
 ---
 
 ## ✨ Fun Facts
 
-- 💬 I love mentoring my peers and sharing what I learn.
-- 🎨 In my free time, you’ll find me designing infographics or UI concepts.
-- 🌏 I’m deeply passionate about using **data to make cities cleaner and systems smarter**.
-- 🚀 I believe the best tech is tech that works for everyone, not just for machines.
+- I love mentoring my peers and sharing what I learn.
+- In my free time, you’ll find me designing infographics or UI concepts.
+- I’m deeply passionate about using **data to make cities cleaner and systems smarter**.
+- I believe the best tech is tech that works for everyone, not just for machines.
 
 ---
 
 ## 📫 Let’s Talk!
 
 **Open to:**  
-✅ AI/ML Developer roles  
-✅ Data Engineering internships  
-✅ Open-source AI collaborations  
-✅ Real-world problem-solving hackathons
+AI/ML Developer roles  
+Data Engineering internships  
+Open-source AI collaborations  
+Real-world problem-solving hackathons
 
 ---
 
