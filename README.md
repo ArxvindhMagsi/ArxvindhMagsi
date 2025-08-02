@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aravindh M</h1>
-<h3 align="center">🚀 Data-Driven Developer | AI & ML Enthusiast | Turning Information into Impact</h3>
+<h3 align="center"> Data-Driven Developer | AI & ML Enthusiast | Turning Information into Impact</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&center=true&vCenter=true&width=600&lines=I+love+turning+raw+data+into+real+solutions.;AI+%7C+ML+%7C+Deep+Learning+%7C+Data+Engineering;Clean+Code.+Smart+Models.+Practical+Impact."/>
@@ -7,7 +7,7 @@
 
 ---
 
-## 🔍 About Me
+## About Me 🔍
 
 🙌 Hello! I’m Aravindh, a developer who believes that **data is the engine that drives real change**.  
 💡 I love building **smart, scalable systems** that solve practical problems — from front-end apps to deep learning models.  
@@ -16,7 +16,7 @@
 
 ---
 
-## 📌 What I Believe In
+## What I Believe In 📌 
 
 ✅ **Data is a Story:** Numbers are just numbers until we find the insight they’re hiding.  
 ✅ **Simplicity Matters:** I aim for solutions that are practical and easy to maintain.  
