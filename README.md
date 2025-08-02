@@ -29,17 +29,17 @@
 
 ### 🧩 Languages & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript,html,css,react,angular,nodejs,reactnative" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,react" />
 </p>
 
 ### 📊 Data, AI & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,pandas,hadoop,mongodb,mysql,firebase,aws" />
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,mongodb,mysql,firebase,aws" />
 </p>
 
 ### 🛠️ Tools & Design
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,postman,selenium,git,github" />
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,postman,selenium,git,github" />
 </p>
 
 ---
@@ -47,25 +47,8 @@
 ## 🌐 Connect with Me
 
 <p>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="Aravindh's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" alt="Aravindh's GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=tokyo-night&hide_border=true" alt="Aravindh's Activity Graph" />
+  <a href="mailto:aravindh.mag@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/aravindh-m-392041257/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
